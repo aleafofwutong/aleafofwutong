@@ -29,7 +29,7 @@ __________________________________
 | ---- | ------- |
 | 编程语言 | Python（熟练）、C/C++（基础）、Markdown（日常使用）|
 | 深度学习 | PyTorch、TensorFlow（基础）、CNN 模型（GhostNet、GoogleNet、YOLO）、轻量化网络优化 |
-| 开发工具 | VS Code、Git、Anaconda、Jupyter Notebook、TorchVision、pybind、C++ |
+| 开发工具 | VS Code、Git、Anaconda、Jupyter Notebook、TorchVision、pybind、~~AI~~ |
 | 其他技能 | 数据结构与算法、Linux 基础、项目工程化（模块化开发、README 编写） |
 
 🎯 未来规划
