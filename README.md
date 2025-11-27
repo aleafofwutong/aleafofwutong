@@ -1,5 +1,7 @@
 # README.md
 
+> [README in Chinese](./README_zh.md)
+
 ## <h4> A student of **Beihang University**, or **BUAA**er, who just love coding, begin his journey on github! </h4>
 
 ## Hi there
