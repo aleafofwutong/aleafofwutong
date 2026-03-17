@@ -26,6 +26,8 @@ Beihang University (BUAA) student | Coding enthusiast | Focused on deep learning
 
 - [x] Update technical notes consistently, contribute to open-source community
 
+- [ ] learn MLLM
+
 - [ ] Deepen computer graphics & reinforcement learning foundations
 
 ---
