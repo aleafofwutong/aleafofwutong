@@ -1,48 +1,39 @@
 # README.md
 
-> [README in Chinese](./README_zh.md)
+*[中文版本](./README_zh.md)*
 
-## <h4> A student of **Beihang University**, or **BUAA**er, who just love coding, begin his journey on github! </h4>
+---
 
-## Hi there
+Beihang University (BUAA) student | Coding enthusiast | Focused on deep learning, computer vision and computer graphics. Starting my open-source journey on GitHub, building practical projects and growing step by step.
 
-👋 I am aleafofwutong, a tech-savvy developer and lifelong learner with a focus on neural networks, computer vision, and computer graphics. I thrive on pushing the boundaries of technology through hands-on practice and solving real-world problems with code.
+---
 
-🚀 about me
+## 👋 Hi, I’m aleafofwutong
 
-🔭 Currently: Deep learning, computer vision, and personal projects
+|Category|Technical Stack|
+|---|---|
+|Programming Languages|Python (Proficient), C/C++ (Basic), Markdown|
+|Deep Learning & CV|PyTorch, TensorFlow (Basic), CNN Models (GhostNet/GoogleNet/YOLO), Lightweight Network Optimization|
+|Tools & Environment|VS Code, Git, Anaconda, Jupyter, TorchVision, pybind11, Linux Basics|
+|Basic & Engineering|Data Structures & Algorithms, Modular Development, Project Documentation, Model Engineering|
+---
 
-🌱 Learning: Advanced features of PyTorch, optimization for large model deployment, and NURBS surface-related techniques
+### 🛠 Core Skills
 
-👯 Cooperation intentions, open-source project contributions, and technical exchanges
+- [ ] Master large model deployment, optimize ONNX & TensorRT inference workflow
 
-💬 Specialties: Python development, deep learning model building and optimization, PyTorch framework applications, computer vision tasks (classification/detection), etc.
+- [ ] Build 1-2 key practical projects (edge device lightweight model deployment)
 
-📫 Contact: [QQ mailbox] (3286959531@qq.com) / [GitHub](https://github.com/aleafofwutong)
+- [x] Update technical notes consistently, contribute to open-source community
 
-⚡ Hobbies: [~~2D~~, Chinese chess]
+- [ ] Deepen computer graphics & reinforcement learning foundations
 
+---
 
-## Core Skills
+### 🎯 Goals & Plans
 
-__________________________________
+### 📬 Contact
 
-| Category | Technical List |
-| ---- | ------- |
-| Programming Language | Python (proficient), C/C++ (basic), Markdown (daily use) |
-| Deep Learning | PyTorch, TensorFlow (basic), CNN models (GhostNet, GoogleNet, YOLO), lightweight network optimization |
-| Development Tools | VS Code, Git, Anaconda, Jupyter Notebook, TorchVision, pybind, ~~AI~~ |
-| Other Skills | Data Structures and Algorithms, Linux Fundamentals, Project Engineering (Modular Development, README Documentation) |
+QQ Mail: [3286959531@qq.com](mailto:3286959531@qq.com) | GitHub:[aleafofwutong](https://github.com/aleafofwutong)
 
-🎯 future plan
-
-- [] Master large model deployment techniques and optimize TensorRT/ONNX workflows
-
-- [] Complete [1-2 key projects, e.g., implementing lightweight models on edge devices]
-
-- [x] Continuously contribute technical notes and open source projects to build community contributions
-
-- [] Expand the foundation of computer graphics and reinforcement learning
-⭐ Welcome to my [Github page] (https://github.com/aleafofwutong)
-
-Thank you for reading! If my project or notes are helpful, please give a Star to support. Let's learn and communicate together!
+⭐ Star my repos if helpful — appreciate your support. Open to technical communication and open-source cooperation.
