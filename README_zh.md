@@ -1,46 +1,43 @@
-# 开始使用说明
+# README_zh.md
 
-## <h4> 北京航空航天大学（简称 **BUAA**er）的一位编程爱好者，开启他的GitHub之旅！ </h4>
+[English Version](https://www.doubao.cn) | 中文版本
 
-## 你好
+---
 
-👋 我是aleafofwutong，一位精通技术的开发者，终身学习者，专注于神经网络、计算机视觉和计算机图形学。我热衷于通过实践探索技术边界，并用代码解决现实问题。
+## 👋 你好，我是 aleafofwutong
 
-🚀 关于我
+北京航空航天大学在读 | 技术研发者
+主攻方向：深度学习、计算机视觉、计算机图形学
+笃行技术落地，深耕开源沉淀，稳步精进核心能力。
 
-热点：深度学习、计算机视觉与个人项目
+---
 
-🌱 学习：PyTorch的高级功能、大型模型部署优化及NURBS曲面相关技术
+### 🛠 核心技能
 
-合作伙伴合作意向、开源项目贡献和技术交流
+|技能分类|技术栈|
+|---|---|
+|编程语言|Python（精通）、C/C++（基础）、Markdown|
+|深度学习与计算机视觉|PyTorch框架实战，CNN模型优化，轻量网络部署，TensorFlow基础|
+|开发工具|VS Code、Git、Anaconda、Jupyter、TorchVision、pybind11、Linux基础|
+|工程能力|数据结构与算法，模块化开发，文档撰写，模型工程化落地|
+---
 
-💬 专长领域：Python开发、深度学习模型构建与优化、PyTorch框架应用、计算机视觉任务（分类/检测）等。
+### 🎯 规划目标
 
-电话：[ QQ mailbox]（3286959531@qq.com）/ [ GitHub]（https://github.com/aleafofwutong）
+- [ ] 攻克大模型部署，优化ONNX、TensorRT全流程推理
 
-⚡ 爱好：[~~2D~~，国际象棋]
+- [ ] 实现MLLM的部署，微调，量化等
 
+- [ ] 完成1-2项边缘端轻量模型核心实战项目
 
-## 核心技能
+- [x] 持续输出技术笔记，深耕开源社区贡献
 
-__________________________________
+- [ ] 夯实图形学与强化学习基础，拓宽技术赛道
 
-| 类别 | 技术列表 |
-| ---- | ------- |
-| 编程语言 | Python（精通）、C/C++（基础）、Markdown（日常使用）|
-| 深度学习 | PyTorch、TensorFlow（基础版）、CNN模型（GhostNet、GoogleNet、YOLO）、轻量级网络优化 |
-| 开发工具 | VS Code、Git、Anaconda、Jupyter Notebook、TorchVision、pybind、~~AI~~ |
-| 其他技能 | 数据结构与算法、Linux基础、项目工程（模块化开发、readme文档）|
+---
 
-🎯 未来计划
+### 📬 联系交流
 
-- 掌握大型模型部署技术并优化TensorRT/ ONNX 工作流
+QQ邮箱：[3286959531@qq.com](mailto:3286959531@qq.com) | GitHub：[aleafofwutong](https://github.com/aleafofwutong)
 
-- [] 完成[1-2个关键项目，例如在边缘设备上实现轻量级模型]
-
-- [x] 持续贡献技术文档和开源项目，推动社区协作
-
-- [] 计算机图形学与强化学习基础拓展
-欢迎来到我的[Github页面]（https://github.com/aleafofwutong）
-
-感谢您的阅读！如果我的项目
+⭐ 项目有益，欢迎Star支持，静待技术交流、开源协作。
