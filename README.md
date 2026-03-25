@@ -8,31 +8,15 @@ Beihang University (BUAA) student | Coding enthusiast | Focused on deep learning
 
 ---
 
-## 👋 Hi, I’m aleafofwutong
+## 👋 Hi, I’m aleafofwutong,a Beihang University (BUAA) student
 
-|Category|Technical Stack|
-|---|---|
-|Programming Languages|Python (Proficient), C/C++ (Basic), Markdown|
-|Deep Learning & CV|PyTorch, TensorFlow (Basic), CNN Models (GhostNet/GoogleNet/YOLO), Lightweight Network Optimization|
-|Tools & Environment|VS Code, Git, Anaconda, Jupyter, TorchVision, pybind11, Linux Basics|
-|Basic & Engineering|Data Structures & Algorithms, Modular Development, Project Documentation, Model Engineering|
----
+## 🛠 skills/habbits
 
-### 🛠 Core Skills
+* Robot Vision 
+* Multimodal 
+* On-Device Deployment 
+* Embodied Intelligence Direction
 
-- [ ] Master large model deployment, optimize ONNX & TensorRT inference workflow
-
-- [ ] Build 1-2 key practical projects (edge device lightweight model deployment)
-
-- [x] Update technical notes consistently, contribute to open-source community
-
-- [ ] learn MLLM
-
-- [ ] Deepen computer graphics & reinforcement learning foundations
-
----
-
-### 🎯 Goals & Plans
 
 ### 📬 Contact
 
