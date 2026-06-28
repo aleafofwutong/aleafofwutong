@@ -1,5 +1,7 @@
 # README.md
 
+[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Linghaowen)](https://githubroast.icu/u/Linghaowen)
+
 *[中文版本](./README_zh.md)*
 
 ---
