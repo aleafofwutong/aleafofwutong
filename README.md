@@ -14,7 +14,7 @@ Beihang University (BUAA) student | Coding enthusiast | Focused on deep learning
 
 ## 🛠 skills/habbits
 
-* Robot Vision 
+* Robot Vision / Navigation
 * Multimodal 
 * On-Device Deployment 
 * Embodied Intelligence Direction
