@@ -22,6 +22,6 @@ Beihang University (BUAA) student | Coding enthusiast | Focused on deep learning
 
 ### 📬 Contact
 
-QQ Mail: [3286959531@qq.com](mailto:3286959531@qq.com) | GitHub:[aleafofwutong](https://github.com/aleafofwutong)
+Gmail: [firmiana2006@gmail.com](mailto:firmiana2006@gmail.com) | QQ Mail: [3286959531@qq.com](mailto:3286959531@qq.com) | GitHub:[aleafofwutong](https://github.com/aleafofwutong)
 
 ⭐ Star my repos if helpful — appreciate your support. Open to technical communication and open-source cooperation.
