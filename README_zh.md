@@ -14,6 +14,6 @@
 
 ### 📬 联系交流
 
-QQ邮箱：[3286959531@qq.com](mailto:3286959531@qq.com) | GitHub：[aleafofwutong](https://github.com/aleafofwutong)
+Gmail: [firmiana2006@gmail.com](mailto:firmiana2006@gmail.com) | QQ邮箱：[3286959531@qq.com](mailto:3286959531@qq.com) | GitHub：[aleafofwutong](https://github.com/aleafofwutong)
 
 ⭐ 项目有益，欢迎Star支持，静待技术交流、开源协作。
